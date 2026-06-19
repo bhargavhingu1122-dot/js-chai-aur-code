@@ -29,5 +29,36 @@ let stringNumber = String(someNumber)
 let myName = 33
 
 let stringName = String(myName)
-console.log(stringName);
-console.log(typeof stringName);
+// console.log(stringName);
+// console.log(typeof stringName);
+
+
+
+//**********************  Operation **********************/
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
+
+
+
+
+
+
+
+
